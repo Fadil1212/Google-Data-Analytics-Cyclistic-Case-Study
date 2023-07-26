@@ -1,0 +1,15 @@
+member_casual,weekday,number_of_rides,average_duration
+casual,Sun,400677,33.36758665
+casual,Mon,287037,28.41987729
+casual,Tue,294543,26.25389145
+casual,Wed,302540,24.57748353
+casual,Thu,314952,25.27853149
+casual,Fri,350532,28.02311301
+casual,Sat,469989,31.7758822
+member,Sun,409272,13.88208693
+member,Mon,499713,11.98718114
+member,Tue,564033,12.074712
+member,Wed,571992,11.98608795
+member,Thu,541761,12.15507053
+member,Fri,483806,12.4171258
+member,Sat,452258,13.91624062
