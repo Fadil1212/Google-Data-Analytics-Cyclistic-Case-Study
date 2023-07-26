@@ -125,7 +125,7 @@ bike_data %>%
  ![000003](https://user-images.githubusercontent.com/62857660/135518560-3169ab87-8a83-41d3-aad2-136483a6d188.png)
 
  
- ⛔ For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)!
+ ⛔ For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link]([https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd](https://github.com/Fadil1212/Google-Data-Analytics-Cyclistic-Case-Study/blob/main/cyclist_data_analysis.Rmd))!
  
 
 ## 5. Share 
