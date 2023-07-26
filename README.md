@@ -138,6 +138,7 @@ bike_data %>%
 ![1](https://user-images.githubusercontent.com/62857660/136473917-62988816-3893-4ee1-b2ce-fdb17f9a6552.JPG)
 ![2](https://user-images.githubusercontent.com/62857660/136473929-be13f89d-6ebe-43f0-96c0-9dc7cb7d1c7b.JPG)
 
+![image](https://github.com/Fadil1212/Google-Data-Analytics-Cyclistic-Case-Study/assets/99661887/5210de2d-788c-4642-84b4-2c36a73ea1f5)
 
 
 
