@@ -131,14 +131,17 @@ bike_data %>%
 ## 5. Share 
 🎨 **[Tabealu Dashboard on Bike-Sharing Case Study](https://public.tableau.com/app/profile/fadil.mohammed.surur.surur/viz/ChicagoCyclistBike-ShareAnalysis/Dashboard2)**
 
-![dash](https://user-images.githubusercontent.com/62857660/136834696-39ee5b7e-71ca-43f7-b7f9-a5d4c2fd53d6.PNG)
+![image](https://github.com/Fadil1212/Google-Data-Analytics-Cyclistic-Case-Study/assets/99661887/bbab3262-c709-4c76-abd1-930d054ac646)
 
 🎨 **[Tableau Presentation on Cyclistic Bike-Sharing Case Study](https://public.tableau.com/app/profile/fadil.mohammed.surur.surur/viz/CyclistBikeshareAnalysispresentation/Story1).**
 
-![1](https://user-images.githubusercontent.com/62857660/136473917-62988816-3893-4ee1-b2ce-fdb17f9a6552.JPG)
-![2](https://user-images.githubusercontent.com/62857660/136473929-be13f89d-6ebe-43f0-96c0-9dc7cb7d1c7b.JPG)
+![image](https://github.com/Fadil1212/Google-Data-Analytics-Cyclistic-Case-Study/assets/99661887/5d70a4a4-bad5-43f7-a052-5f81ad502563)
 
-![image](https://github.com/Fadil1212/Google-Data-Analytics-Cyclistic-Case-Study/assets/99661887/5210de2d-788c-4642-84b4-2c36a73ea1f5)
+
+![image](https://github.com/Fadil1212/Google-Data-Analytics-Cyclistic-Case-Study/assets/99661887/17389736-a161-4d63-a32e-a1332360677d)
+
+
+
 
 
 
